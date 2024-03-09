@@ -47,9 +47,9 @@ This project is licensed under the [Your License Name] - see the [LICENSE.md](LI
 
 ## Credits
 
-- Author: Nima Hojat1, and S. Mahdi Hosseinian2
-1 Department of Civil Engineering, School of Engineering, Bu-Ali Sina University, Iran
-2Associate Professor, Department of Civil Engineering, School of Engineering, Bu-Ali Sina University, Iran (Corresponding Author)
+- Authors: Nima Hojat1, and S. Mahdi Hosseinian2
+- 1 Department of Civil Engineering, School of Engineering, Bu-Ali Sina University, Iran
+- 2Associate Professor, Department of Civil Engineering, School of Engineering, Bu-Ali Sina University, Iran (Corresponding Author)
 
 
 ## Contact
