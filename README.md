@@ -30,21 +30,6 @@ Simultaneously, project owners can:
 - Utilizes two machine learning techniques: decision tree and k-means clustering.
 - Evaluation performed using real-world data, ensuring applicability and reliability in diverse construction scenarios.
 
-## Getting Started
-
-Follow these steps to get started with the framework:
-
-1. [Installation Instructions]
-2. [Usage Guidelines]
-
-## Contributing
-
-We welcome contributions to improve and enhance the framework. If you're interested in contributing, please follow our [Contributing Guidelines].
-
-## License
-
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Credits
 
 - Authors: Nima Hojat1, and S. Mahdi Hosseinian2
